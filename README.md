@@ -7,7 +7,8 @@ Mirror of ItemIcons from different mods as pngs
 Those file trees are exactly as in the mod .pak.
 
 - NewIcons3.0 by SUPA:) ([discord post](https://discord.com/channels/867256068475977748/901902350946545664/920158517078396940))
-- UILabelIcons3.0 by Sentsu ([sentsu.itch.io](https://sentsu.itch.io/foxhole-ui-label-icons))
+- UILabel1.0 by Sentsu ([sentsu.itch.io](https://sentsu.itch.io/foxhole-ui-label-icons), successor of UILabelIcons)
+- UILabelIcons3.0
 - UILabelIcons2.0
 - UILabelIcons1.1
 
